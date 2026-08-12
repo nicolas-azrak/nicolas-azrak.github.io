@@ -1,0 +1,81 @@
+Nicolas Azrak
+Principal Software Architect & Platform Engineering Leader
+Buenos Aires, Argentina
+
+Professional introduction
+I work on software architecture, cloud platforms, security, developer experience,
+and engineering systems for high-scale digital products.
+
+Experience
+Trafilea Group
+Principal Software Architect
+Remote
+
+Leading software architecture, platform engineering, cloud infrastructure,
+security, and engineering enablement across a multi-brand e-commerce
+organization.
+
+Selected areas
+- Software architecture
+- Platform engineering
+- Cloud infrastructure
+- Security
+- Developer experience
+- Reliability
+- Engineering leadership
+- AI, data, and e-commerce initiatives
+
+Uala
+Software Architect
+Feb 2020 - TODO confirm end date
+
+Worked as a software architect in a fintech context, focusing on architecture
+and backend systems.
+
+OLX
+Software Architect
+Oct 2016 - Feb 2020
+
+Worked as a software architect for OLX, following several years in engineering
+and management roles within the OLX/Naspers environment.
+
+OLX - Naspers Classifieds
+Engineering Manager
+May 2014 - Oct 2016
+
+Led engineering work in the classifieds business, bridging hands-on technical
+context with team coordination.
+
+OLX - Naspers Classifieds
+Senior Software Engineer
+Dec 2011 - May 2014
+
+Built and maintained software for OLX/Naspers classifieds platforms before
+moving into management and architecture roles.
+
+Nicsonic
+Founder & Full Stack Developer
+Feb 2009 - Jan 2012
+
+Founded and built full-stack software projects before joining larger product
+and engineering organizations.
+
+Education
+Universidad Centro de Altos Estudios en Ciencias Exactas, 2012 - present
+
+Certifications
+Architecting Serverless Solutions - Amazon Web Services, issued Jan 2020
+Continuous Conversations Training by Krauthammer, issued Mar 2016
+
+Awards
+International finalist, Stockholm Junior Water Prize 2009, Stockholm, Sweden
+Scientific project: Harvesting electricity from bacteria
+
+Languages
+Spanish: native or bilingual proficiency
+English: full professional proficiency
+
+Links
+LinkedIn: https://www.linkedin.com/in/nicolasazrak/
+GitHub: https://github.com/nicolas-azrak
+Medium: https://medium.com/@nicolas.azrak
